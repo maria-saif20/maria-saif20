@@ -38,9 +38,6 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a background 
 - 📝 [Medium](https://medium.com/@saifmaria55)
 - 📧 **Email:** saifmaria55@gmail.com
 
-## 📈 GitHub Stats
-
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🤝 Let's Collaborate!
 
